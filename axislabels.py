@@ -9,8 +9,8 @@ pop=[1.0,1.262,1.650] + pop
 plt.plot(year,pop)
 plt.xlabel("Year")
 plt.ylabel("Population")
-plt.yticks([0,2,4,6,8],
-           ["0","2B","4B","6B","8B"])
+plt.yticks([0,2,4,6,8,10],
+           ["0","2B","4B","6B","8B","10B"])
 plt.title("World Population Projection")
 
 plt.show()
