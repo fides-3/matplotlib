@@ -1,6 +1,7 @@
 # # NumPy is imported; seed is set
-# import numpy as np
-# np.random.seed(123)
+import numpy as np
+import matplotlib.pyplot as plt
+np.random.seed(123)
 # # Initialize all_walks (don't change this line)
 # all_walks = []
 
